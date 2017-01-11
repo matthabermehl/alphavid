@@ -20,4 +20,4 @@ Must be applied to video element:
 		}
 	});
 	
-  This is currently in pre-alpha. Pull requests welcome.u
+  This is currently in pre-alpha. Pull requests welcome.
